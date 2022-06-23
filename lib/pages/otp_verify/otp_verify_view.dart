@@ -112,8 +112,8 @@ class OTPVerifyView extends StatelessWidget {
                 ),
 
                 Obx(()=>!_controller.timeOut.value ? TweenAnimationBuilder(
-                  tween: Tween(begin: 30.0, end: 0),
-                  duration: const Duration(seconds: 30),
+                  tween: Tween(begin: 120.0, end: 0),
+                  duration: const Duration(seconds: 120),
                   builder: (context, value, child) {
                     double val = value as double;
                     int time = val.toInt();
