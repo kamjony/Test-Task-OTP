@@ -16,5 +16,5 @@ This flutter app is using GETX as a state manager.
 13) Resend OTP btn comes after 2mins
 14) Pressing X btn takes user back to previous screen
 
-
---- The whole app is responsive and will scale to any device size.
+![testtaskotp](https://user-images.githubusercontent.com/34217296/203290382-48f2f23c-4dbf-40ea-a4c2-d64765e403a9.png)
+![testtaskotp2](https://user-images.githubusercontent.com/34217296/203290393-b9c3fff8-3d28-46e6-8339-d321e1d17c25.png)
